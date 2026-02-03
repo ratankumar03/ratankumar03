@@ -174,6 +174,9 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 
 ### 🔥 GitHub Streak Stats
 
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ratankumar03&show_icons=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ratankumar03&layout=compact)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ratankumar03&theme=tokyonight&hide_border=false&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" width="60%" alt="GitHub Streak" />
 
 ### 📊 Contribution Activity
