@@ -180,9 +180,6 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ratankumar03&theme=tokyonight" width="80%" alt="Contribution Graph" />
 
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ratankumar03&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" width="80%" alt="GitHub Trophies" />
 
 </div>
 
