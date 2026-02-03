@@ -32,8 +32,7 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=api&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 📊 Data Science & Machine Learning
 
@@ -41,14 +40,12 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🌐 Frontend Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### 🗄️ Databases
@@ -57,14 +54,12 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🛠️ Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -72,18 +67,18 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🧠 Core Competencies
 
-```
-✔ Object-Oriented Programming (OOP)          ✔ Machine Learning & Data Analysis
-✔ RESTful API Design & Development           ✔ Database Design & Optimization
-✔ Data Structures & Algorithms               ✔ Version Control & Collaboration
-✔ System Design & Architecture               ✔ Agile Development Methodologies
-✔ Problem Solving & Debugging                ✔ Technical Documentation
-```
+- ✔ Object-Oriented Programming (OOP)
+- ✔ Machine Learning & Data Analysis
+- ✔ RESTful API Design & Development
+- ✔ Data Structures & Algorithms
+- ✔ Database Design & Optimization
+- ✔ Version Control & Collaboration
+- ✔ System Design & Architecture
+- ✔ Problem Solving & Debugging
 
 ---
 
@@ -97,7 +92,7 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 - 📉 Technical indicators and analysis tools
 - 🔔 Price alerts and notifications
 
-**Tech Stack:** `Django` `Django REST Framework` `PostgreSQL` `React` `Chart.js` `Redis`
+**Tech Stack:** `Django` `Django REST Framework` `PostgreSQL` `React` `Chart.js`
 
 ---
 
@@ -113,7 +108,7 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 
 ---
 
-### 🏎️ [3D Car Racing Game](https://github.com/ratankumar03/car-racing-game-backend)
+### 🏎️ [3D Car Racing Game (Full Stack)](https://github.com/ratankumar03/car-racing-game-backend)
 **Multi-level 3D racing game with full-stack architecture.**
 
 - 🎮 Multiple racing tracks and difficulty levels
@@ -140,49 +135,36 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 
 ---
 
-### 💡 Additional Projects
-
-- **🌐 E-Commerce Platform** - Full-featured online shopping system with payment gateway integration
-- **📱 Social Media Dashboard** - Analytics dashboard for social media metrics and insights
-- **🔐 Authentication System** - Secure JWT-based authentication with role management
-- **📊 Data Visualization Tool** - Interactive data visualization platform using D3.js
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table>
 <tr>
 <td width="50%" align="center">
 
-### 📈 GitHub Statistics
+<h3>📈 GitHub Statistics</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ratankumar03&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3" width="100%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ratankumar03&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
 
 </td>
 <td width="50%" align="center">
 
-### 💻 Top Languages
+<h3>💻 Top Languages</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratankumar03&layout=compact&theme=tokyonight&hide_border=false&langs_count=10&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" width="100%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratankumar03&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-### 🔥 GitHub Streak Stats
+<h3>🔥 GitHub Streak Stats</h3>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ratankumar03&theme=tokyonight&hide_border=false&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" width="60%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ratankumar03&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="50%"/>
 
-### 📊 Contribution Activity
+<h3>🏆 GitHub Trophies</h3>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ratankumar03&theme=tokyonight" width="80%" alt="Contribution Graph" />
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ratankumar03&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" width="80%" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ratankumar03&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" width="80%"/>
 
 </div>
 
@@ -194,7 +176,8 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 <tr>
 <td width="50%">
 
-### 🎓 Master of Computer Application (MCA)
+<h3>🎓 Master of Computer Application (MCA)</h3>
+
 **MAKAUT (Maulana Abul Kalam Azad University of Technology)**  
 📅 2022 - 2024  
 📊 CGPA: **7.91/10.0**  
@@ -203,7 +186,8 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 </td>
 <td width="50%">
 
-### 🎓 Bachelor of Computer Application (BCA)
+<h3>🎓 Bachelor of Computer Application (BCA)</h3>
+
 **Vidyasagar University**  
 📅 2019 - 2022  
 📊 Percentage: **90.05%**  
@@ -221,7 +205,8 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 <tr>
 <td width="33%">
 
-### 🎓 Full Stack Web Development
+<h3>🎓 Full Stack Development</h3>
+
 **Ardent Computech Pvt. Ltd.**  
 - Django Framework
 - REST API Development
@@ -231,7 +216,8 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 </td>
 <td width="33%">
 
-### 🎓 Web Development Training
+<h3>🎓 Web Development</h3>
+
 **Techinnovator**  
 - HTML5 & CSS3
 - Bootstrap Framework
@@ -241,11 +227,12 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 </td>
 <td width="33%">
 
-### 🏆 NPTEL Certification
+<h3>🏆 NPTEL Elite</h3>
+
 **SWAYAM NPTEL**  
-- Elite with Silver Award
-- Online Course Completion
+- Silver Award
 - Top Performer
+- Online Course
 - Certificate of Excellence
 
 </td>
@@ -267,7 +254,8 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 <tr>
 <td width="50%">
 
-### 🥈 Academic Excellence
+<h3>🥈 Academic Excellence</h3>
+
 - **NPTEL Elite with Silver Award** - SWAYAM NPTEL
 - **First Division with Distinction** - BCA (90.05%)
 - **First Division** - MCA (7.91 CGPA)
@@ -276,7 +264,8 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 </td>
 <td width="50%">
 
-### 👥 Leadership & Involvement
+<h3>👥 Leadership & Contributions</h3>
+
 - **Discipline Team Member** - Elixir'23 Cultural Fest, BPPIMT
 - **Technical Team Member** - College Tech Events
 - **Workshop Organizer** - Programming Workshops
@@ -301,7 +290,8 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 <tr>
 <td width="50%">
 
-### 🎯 Technical Skills
+<h3>🎯 Technical Skills</h3>
+
 - Full Stack Web Development
 - Machine Learning & AI
 - Data Analysis & Visualization
@@ -312,13 +302,14 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 </td>
 <td width="50%">
 
-### 🤝 Soft Skills
-- Problem Solving
-- Team Collaboration
+<h3>🤝 Soft Skills</h3>
+
+- Problem Solving & Critical Thinking
+- Team Collaboration & Leadership
 - Technical Documentation
 - Project Management
 - Agile Methodologies
-- Continuous Learning
+- Continuous Learning & Adaptation
 
 </td>
 </tr>
@@ -330,28 +321,16 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 
 <p align="center">
   <a href="https://portfolio-frontend-b6b4.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio" height="35"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/ratan-kumar-majhi-893521248" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
   </a>
   <a href="https://github.com/ratankumar03" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
   </a>
   <a href="mailto:ratanmajhi1203@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/ratankumar03" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="35"/>
-  </a>
-  <a href="https://www.instagram.com/ratankumar03" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="35"/>
-  </a>
-  <a href="https://leetcode.com/ratankumar03" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="35"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
   </a>
 </p>
 
@@ -361,7 +340,7 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 
 <p align="center">
   <img src="https://img.shields.io/badge/📧_Email-ratanmajhi1203@gmail.com-D14836?style=flat-square" alt="Email"/>
-  <img src="https://img.shields.io/badge/📍_Location-Kolkata,_India-4285F4?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/📍_Location-Kolkata,_West_Bengal,_India-4285F4?style=flat-square" alt="Location"/>
   <img src="https://img.shields.io/badge/💼_Status-Open_to_Opportunities-00C853?style=flat-square" alt="Status"/>
 </p>
 
@@ -369,13 +348,19 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 
 <div align="center">
   
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+<h3>💡 <em>"Code is like humor. When you have to explain it, it's bad."</em></h3>
 
-### 🚀 Always Learning | Always Building | Always Improving
+<h3>🚀 Always Learning | Always Building | Always Improving</h3>
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=ratankumar03&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-### ⭐ **If you find my work interesting, consider starring my repositories!** ⭐
+<br><br>
+
+<h3>⭐ <strong>If you find my work interesting, consider starring my repositories!</strong> ⭐</h3>
+
+<br>
 
 ---
 
