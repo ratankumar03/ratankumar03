@@ -95,19 +95,19 @@ AI-powered job matching platform with CV parsing and intelligent job search.
 
 ### 📈 Overall Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=ratankumar03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratankumar03&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true)
 
 ### 💻 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratankumar03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ratankumar03&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)
 
 ### 🔥 Contribution Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ratankumar03&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ratankumar03&theme=tokyonight&hide_border=false)
 
 ### 📊 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ratankumar03&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ratankumar03&theme=tokyo-night&hide_border=false&area=true)
 
 </div>
 
