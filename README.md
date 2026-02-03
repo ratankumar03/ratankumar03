@@ -79,8 +79,9 @@ Machine learning–based network intrusion detection using **K-Means & DBSCAN** 
 
 ### 🏎️ 3D Car Racing Game (Full Stack)
 Multi-level 3D racing game with backend APIs and React + Three.js frontend.  
-**Backend:** [car-racing-game-backend](https://github.com/ratankumar03/car-racing-game-backend)  
-**Frontend:** [car-racing-game-frontend](https://github.com/ratankumar03/car-racing-game-frontend)  
+- **Backend:** [car-racing-game-backend](https://github.com/ratankumar03/car-racing-game-backend)  
+- **Frontend:** [car-racing-game-frontend](https://github.com/ratankumar03/car-racing-game-frontend)  
+
 **Tech Stack:** Django REST, React, Three.js
 
 ### 🤖 [JobMatchAI](https://github.com/ratankumar03/JobMatchAI)
