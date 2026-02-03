@@ -29,8 +29,8 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 
 ### ⚙️ Backend Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge)
-![REST](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Django REST](https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
 ### 📊 Data Science & Machine Learning
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
@@ -48,6 +48,8 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ### 🧠 Core Concepts
 ✔ Object-Oriented Programming (OOP)  
@@ -77,18 +79,27 @@ AI-powered job matching platform with CV parsing and intelligent job search.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (FIXED & STABLE)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ratankumar03&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ratankumar03&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratankumar03&layout=compact&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ratankumar03&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ratankumar03&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=ratankumar03&theme=tokyonight"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
