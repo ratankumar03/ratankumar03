@@ -153,13 +153,36 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratankumar03&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3)
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%" align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ratankumar03&layout=compact&theme=tokyonight&hide_border=false&langs_count=10&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+### 📈 GitHub Statistics
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ratankumar03&theme=tokyonight&hide_border=false&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)
+<img src="https://github-readme-stats.vercel.app/api?username=ratankumar03&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3" width="100%" alt="GitHub Stats" />
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ratankumar03&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=7)
+</td>
+<td width="50%" align="center">
+
+### 💻 Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratankumar03&layout=compact&theme=tokyonight&hide_border=false&langs_count=10&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" width="100%" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
+
+### 🔥 GitHub Streak Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ratankumar03&theme=tokyonight&hide_border=false&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" width="60%" alt="GitHub Streak" />
+
+### 📊 Contribution Activity
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ratankumar03&theme=tokyonight" width="80%" alt="Contribution Graph" />
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=ratankumar03&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" width="80%" alt="GitHub Trophies" />
 
 </div>
 
