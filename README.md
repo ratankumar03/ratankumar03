@@ -1,16 +1,16 @@
-<h1 align="center">Hi, I'm Ratan Kumar Majhi 👋</h1>
+<h1 align="center">Hi, I'm Ratan Kumar Majhi </h1>
 
 <h3 align="center">
 Python & Django Developer | AI/ML Engineer | Full-Stack Developer
 </h3>
 
 <p align="center">
-📍 Kolkata, India
+ Kolkata, India
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am an MCA graduate and a research-driven, hands-on software developer focused on building **scalable backend systems** and **AI/ML-powered applications**. My work combines strong problem-solving skills with practical full-stack engineering to deliver production-ready solutions.
 
@@ -18,7 +18,7 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 
 ---
 
-## 🧠 Skills
+##  Skills
 
 ### 🔹 Technical Skills
 Python • Django • SQL • Java • HTML • CSS  
