@@ -83,7 +83,6 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 
 ### 📈 [Stock Analysis Pro](https://github.com/ratankumar03/stock-analysis-pro)
 **Django-based platform for real-time stock tracking, portfolio analytics, and interactive dashboards.**
-
 - 📊 Real-time stock data visualization with interactive charts
 - 💼 Portfolio management with performance tracking
 - 📉 Technical indicators and analysis tools
@@ -95,7 +94,6 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 
 ### 🛡️ [Intrusion Detection System](https://github.com/ratankumar03/intrusion-detection-system)
 **Machine learning-based network intrusion detection system achieving ~85% accuracy.**
-
 - 🤖 K-Means and DBSCAN clustering algorithms
 - 🔍 Real-time threat detection and classification
 - 📊 Comprehensive data preprocessing pipeline
@@ -107,7 +105,6 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 
 ### 🏎️ [3D Car Racing Game](https://github.com/ratankumar03/car-racing-game-backend)
 **Multi-level 3D racing game with full-stack architecture.**
-
 - 🎮 Multiple racing tracks and difficulty levels
 - 🏆 Real-time leaderboard and scoring system
 - 🚗 3D graphics with Three.js rendering
@@ -122,7 +119,6 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 
 ### 🤖 [JobMatchAI](https://github.com/ratankumar03/JobMatchAI)
 **AI-powered job matching platform with intelligent CV parsing and job recommendations.**
-
 - 📄 Automated CV parsing and skill extraction
 - 🎯 Intelligent job matching algorithm
 - 🔍 Advanced job search with filters
@@ -144,76 +140,44 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ratankumar03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ratankumar03&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+<a href="https://github.com/ratankumar03">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ratankumar03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratankumar03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratankumar03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ratankumar03&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="49%" />
+</div>
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=ratankumar03&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ratankumar03&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ffa657&currStreakLabel=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak"/>
+</div>
 
-### 📊 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ratankumar03&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ratankumar03&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9" alt="Contribution Graph"/>
+</div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ratankumar03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
 
 ## 🎓 Education
 
-| Degree | Institution | Duration | Performance |
-|--------|------------|----------|-------------|
-| **Master of Computer Application (MCA)** | MAKAUT (Maulana Abul Kalam Azad University of Technology) | 2022 - 2024 | **CGPA: 7.91/10.0** 🏆 First Division |
-| **Bachelor of Computer Application (BCA)** | Vidyasagar University | 2019 - 2022 | **90.05%** 🏆 First Division with Distinction |
+| Degree | Institution | Year | Performance |
+|--------|------------|------|-------------|
+| **Master of Computer Application (MCA)** | MAKAUT (Maulana Abul Kalam Azad University of Technology) | 2022 - 2024 | CGPA: **7.91/10.0** 🏆 First Division |
+| **Bachelor of Computer Application (BCA)** | Vidyasagar University | 2019 - 2022 | Percentage: **90.05%** 🏆 First Division with Distinction |
 
 ---
 
 ## 📜 Certifications & Training
 
-<table>
-<tr>
-<td width="33%">
-
-**🎓 Full Stack Web Development**  
-*Ardent Computech Pvt. Ltd.*
-
-- Django Framework
-- REST API Development
-- Database Management
-- Frontend Integration
-
-</td>
-<td width="33%">
-
-**🎓 Web Development Training**  
-*Techinnovator*
-
-- HTML5 & CSS3
-- Bootstrap Framework
-- SQL & Database Design
-- PHP Programming
-
-</td>
-<td width="33%">
-
-**🏆 NPTEL Certification**  
-*SWAYAM NPTEL*
-
-- Elite with Silver Award
-- Online Course Completion
-- Top Performer
-- Certificate of Excellence
-
-</td>
-</tr>
-</table>
-
-### 📋 Additional Certifications
-- ✅ **Information Technology Application Certification**
-- ✅ **Python Programming Specialization**
-- ✅ **Machine Learning Fundamentals**
-- ✅ **Database Management Systems**
+| Certification | Issuing Organization | Key Skills |
+|--------------|---------------------|------------|
+| **Full Stack Web Development** | Ardent Computech Pvt. Ltd. | Django, REST API, Database Management, Frontend Integration |
+| **Web Development Training** | Techinnovator | HTML5, CSS3, Bootstrap, SQL, PHP |
+| **NPTEL Certification** | SWAYAM NPTEL | Elite with Silver Award, Top Performer |
+| **Information Technology Application** | Various | Advanced IT Skills |
 
 ---
 
@@ -224,25 +188,25 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 <td width="50%">
 
 **🥈 Academic Excellence**
-- **NPTEL Elite with Silver Award** - SWAYAM NPTEL
-- **First Division with Distinction** - BCA (90.05%)
-- **First Division** - MCA (7.91 CGPA)
-- **Top 10% of Class** - Multiple Semesters
+- NPTEL Elite with Silver Award - SWAYAM NPTEL
+- First Division with Distinction - BCA (90.05%)
+- First Division - MCA (7.91 CGPA)
+- Top 10% of Class - Multiple Semesters
 
 </td>
 <td width="50%">
 
 **👥 Leadership & Involvement**
-- **Discipline Team Member** - Elixir'23 Cultural Fest, BPPIMT
-- **Technical Team Member** - College Tech Events
-- **Workshop Organizer** - Programming Workshops
-- **Peer Mentor** - Junior Students Guidance
+- Discipline Team Member - Elixir'23 Cultural Fest, BPPIMT
+- Technical Team Member - College Tech Events
+- Workshop Organizer - Programming Workshops
+- Peer Mentor - Junior Students Guidance
 
 </td>
 </tr>
 </table>
 
-### 💡 Project Achievements
+**💡 Project Achievements**
 - 📊 **85% Accuracy** achieved in Intrusion Detection System using ML algorithms
 - 🚀 **Successfully deployed** multiple full-stack production applications
 - 🏆 **Built 15+ projects** across web development, ML, and data analysis
@@ -285,28 +249,28 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 
 <p align="center">
   <a href="https://portfolio-frontend-b6b4.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio" height="35"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/ratan-kumar-majhi-893521248" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/ratankumar03" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:ratanmajhi1203@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://twitter.com/ratankumar03" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="35"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://www.instagram.com/ratankumar03" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="35"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://leetcode.com/ratankumar03" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="35"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
@@ -328,12 +292,12 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 
 ### 🚀 Always Learning | Always Building | Always Improving
 
-<img src="https://komarev.com/ghpvc/?username=ratankumar03&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=ratankumar03&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 ### ⭐ **If you find my work interesting, consider starring my repositories!** ⭐
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+**Made with ❤️ by Ratan Kumar Majhi**
 
 </div>
