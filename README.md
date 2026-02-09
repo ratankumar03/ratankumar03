@@ -157,16 +157,11 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 <tr>
 <td width="50%" align="center">
 
-###  GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=ratankumar03&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3" width="100%" alt="GitHub Stats" />
 
 </td>
 <td width="50%" align="center">
 
-###  Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratankumar03&layout=compact&theme=tokyonight&hide_border=false&langs_count=10&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" width="100%" alt="Top Languages" />
 
 </td>
 </tr>
@@ -177,6 +172,8 @@ I specialize in **Python, Django, Machine Learning**, and modern web technologie
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ratankumar03&show_icons=true)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ratankumar03&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ratankumar03&theme=tokyonight&hide_border=false&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" width="60%" alt="GitHub Streak" />
+
 ###  Contribution Activity
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ratankumar03&theme=tokyonight" width="80%" alt="Contribution Graph" />
